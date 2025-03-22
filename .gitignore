@@ -1,0 +1,6 @@
+.env
+*.json
+*.key
+*.pkl
+credentials/
+config/secret.yaml
