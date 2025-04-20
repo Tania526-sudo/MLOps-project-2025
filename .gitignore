@@ -4,3 +4,15 @@
 *.pkl
 credentials/
 config/secret.yaml
+
+secrets/
+*.json
+
+artifacts/
+data/
+logs/
+*.log
+
+.env
+.venv/
+__pycache__/
